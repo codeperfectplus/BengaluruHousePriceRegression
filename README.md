@@ -15,3 +15,6 @@ Features
 - [Total_sqft](https://codeperfectplus.github.io/codes_perfect/) – `size of the property in sq.ft`
 - [Bath](https://codeperfectplus.github.io/codes_perfect/) – `No. of bathrooms`
 - [Balcony](https://codeperfectplus.github.io/codes_perfect/) – `No. of the balcony` 
+
+
+![](https://www.machinehack.com/wp-content/uploads/2018/03/Bengaluru-1.png)
