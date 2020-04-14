@@ -1,6 +1,8 @@
 # BengaluruHousePriceRegression
+
 > Data Analysis With Jupyter Notebook In Python 3.6+
-![](https://www.machinehack.com/wp-content/uploads/2018/03/bangalore-now.jpg)
+
+![banglore City](https://www.machinehack.com/wp-content/uploads/2018/03/bangalore-now.jpg)
 
 ## Features
 
@@ -14,29 +16,33 @@
 - [Bath](https://github.com/codePerfectPlus) – `No. of bathrooms`
 - [Balcony](https://github.com/codePerfectPlus) – `No. of the balcony` 
 
+## How To Run
 
-# How To Run 
 - Install python 3.6+
 - Pip insall
-    - numpy 
-    - pandas
-    - matplotlib
-    - seaborn
-    - sklearn
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - sklearn
 
 ## Installation
-Fork Project and contribute to improve Analysis
+
+Fork Project and contribute to improving Analysis
 
 Check here for setup your notebook first time.
 [Start With Jupyter NoteBook](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 ## Usage
+
 A good start with data-analysis for beginner
 
 ## Support
-contributers 
+
+contributors
 
 ## Contributing
+
 Before submitting a bug, please do the following:
 
 Perform basic troubleshooting steps:
@@ -46,17 +52,19 @@ Perform basic troubleshooting steps:
 - Try switching up dependency versions. If the software in question has dependencies (other libraries, etc) try upgrading/downgrading those as well.
 
 ## Authors and acknowledgment
+
 Show your appreciation to those who have contributed to the project.
 
-
 ## License
-For open source projects,Under MIT License.
+
+For open-source projects, Under MIT License.
 
 ## Project status
 
 ## Author
-- Project : BengaluruHousePriceRegression
-- Author  : CodePerfectPlus
-- Language : Python
-- Github : https://github.com/codePerfectPlus
-- Website : http://codeperfectplus.github.io/
+
+- Project: BengaluruHousePriceRegression
+- Author: CodePerfectPlus
+- Language: Python
+- Github: <https://github.com/codePerfectPlus>
+- Website: <http://codeperfectplus.github.io/>
